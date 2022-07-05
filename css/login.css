@@ -1,0 +1,11 @@
+#defineFood{
+    display: flex;
+    margin-top: 10%;
+    height: inherit;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    background-image: url("./img/defineFood.PNG");
+    margin-top: 10%;
+    margin-left: 5%;
+}
